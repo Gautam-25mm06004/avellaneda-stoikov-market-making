@@ -1,0 +1,6 @@
+# Versions the notebook was run and tested with (Python 3.13)
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+jupyterlab==4.6.4
